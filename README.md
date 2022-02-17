@@ -1,5 +1,7 @@
 # Hands-Free-Inputs
 
+![image](https://user-images.githubusercontent.com/85316690/154574889-f26766e1-a5ae-4b15-9fc7-3493f8fe134a.png)
+
 This is a collection of hands-free input demonstrations that demonstrate how we can use computer vision to change the way that we interact with a computer. Modern computers have 2 predominant input methods:
 
 1) Keyboard and Mouse
