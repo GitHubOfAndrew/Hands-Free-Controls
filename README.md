@@ -10,6 +10,7 @@ Both of these are tactile (touch-based) inputs. Our goal is to show that we can 
 # User Interface
 
 ## Volume Controls
+<img src="https://user-images.githubusercontent.com/85316690/154574889-f26766e1-a5ae-4b15-9fc7-3493f8fe134a.png" width=50% height=50%>
 ![image](https://user-images.githubusercontent.com/85316690/154574889-f26766e1-a5ae-4b15-9fc7-3493f8fe134a.png)
 
 ## Brightness Controls
