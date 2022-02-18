@@ -1,13 +1,19 @@
 # Hands-Free-Inputs
 
-![image](https://user-images.githubusercontent.com/85316690/154574889-f26766e1-a5ae-4b15-9fc7-3493f8fe134a.png)
-
 This is a collection of hands-free input demonstrations that demonstrate how we can use computer vision to change the way that we interact with a computer. Modern computers have 2 predominant input methods:
 
 1) Keyboard and Mouse
 2) Touch Input
 
 Both of these are tactile (touch-based) inputs. Our goal is to show that we can eliminate the need for tactile inputs through computer vision. Although eliminating the tactile input may seem undesirable, it may be a solution to ergonomics issues, and a further polished hands-free input system may eliminate the necessity of additional equipment when using technology.
+
+# User Interface
+
+## Volume Controls
+![image](https://user-images.githubusercontent.com/85316690/154574889-f26766e1-a5ae-4b15-9fc7-3493f8fe134a.png)
+
+## Brightness Controls
+![image](https://user-images.githubusercontent.com/85316690/154621660-5d5d4d53-a4e4-4dc4-a600-c47f22c6d70d.png)
 
 # Dependencies/How to Install
 
