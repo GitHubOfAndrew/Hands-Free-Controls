@@ -21,17 +21,17 @@ The following portions of this project have different dependencies:
 
 ## Base Dependencies
 
-- Mediapipe
-- OpenCV
-- NumPy
+- Mediapipe ("pip install mediapipe")
+- OpenCV ("pip install opencv-python")
+- NumPy ("pip install numpy")
 
 ## Volume-Control
 
-- pycaw (Link to the creator's github here: https://github.com/AndreMiras/pycaw)
+- pycaw ("pip install pycaw", Link to the creator's github here: https://github.com/AndreMiras/pycaw)
 
 ## Brightness-Control
 
-(TBA)
+- screen_brightness_control ("pip install screen_brightness_control", Link to the creator's github here: https://github.com/Crozzers/screen_brightness_control)
 
 # Some Limitations
 
