@@ -64,6 +64,10 @@ while cap.isOpened():
             # print(cursor_position_x, cursor_position_y)
 
             # adjust coordinates of the cursor according to the interpolated cursor position
+            # adjust variable to make movement of mouse smoother
+            mouse_smoothness = 8
+            cursor_position_x, cursor_position_y = mouse_smoothness*int(cursor_position_x/mouse_smoothness), mouse_smoothness*int(cursor_position_y/mouse_smoothness)
+
             mouse.position = (cursor_position_x, cursor_position_y)
 
             # print(mouse.position)
