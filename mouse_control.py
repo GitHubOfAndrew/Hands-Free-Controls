@@ -75,14 +75,20 @@ while cap.isOpened():
             fingers = detector.fingers_up()
             print(fingers)
             # CLICK CURSOR: IMPLEMENT RIGHT CLICK AND LEFT CLICK
-            if fingers[1] == 0:
+            if fingers[1] == 0 and fingers[0] != 0:
                 # this is the index finger action for left click, release once finger goes back up
                 mouse.press(Button.left)
                 mouse.release(Button.left)
-            if fingers[2] == 0:
+            if fingers[2] == 0 and fingers[1] != 0:
                 # this is the middle finger action for right click, release once finger goes back up
                 mouse.press(Button.right)
                 mouse.release(Button.right)
+
+            # IMPLEMENT SCROLLING if both right click and left click fingers are down
+            if fingers[1] == 0 and fingers[2] == 0 and fingers[3] == 0 and fingers[4] == 0:
+                mouse.scroll(0, -1)
+            if fingers[1] == 0 and fingers[1] == 0 and fingers[3] == 0 and fingers[4] == 1:
+                mouse.scroll(0, 1)
         else:
             print('Out of Range: please take your hand further away')
 
