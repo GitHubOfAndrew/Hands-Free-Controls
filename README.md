@@ -11,7 +11,7 @@ Both of these are tactile (touch-based) inputs. Our goal is to show that we can 
 
 ## Volume Controls
 
-![Volume Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/Animation_volume_test4.gif)
+![Volume Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/gif_animations/Animation_volume_test4.gif)
 
 To use the volume controls, run the "volume_control_better.py" script. Place the thumb and index (pointer) finger together **to toggle volume control**. **To activate changes to the device volume**, lower the middle finger of your hand. **To set the volume**, raise your middle finger again.
 
@@ -22,7 +22,7 @@ To use the brightness controls, it is the same controls as the volume, except th
 
 ## Mouse Controls
 
-![Mouse Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/Animation_mouse_click_test.gif)
+![Mouse Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/gif_animations/Animation_mouse_click_test.gif)
 
 To use the mouse controls, **the tip of the thumb will be what toggles the mouse**. **To left click**, lower the index (pointer) finger like one would on a standard mouse. **To right click**, lower the middle finger like one would on a standard mouse. **To scroll a page up**, put together the three middle fingers (so keep up every finger that's not a thumb or a pinky), and lower it. **To scroll a page down**, put together all fingers that are not a thumb, and lower them.
 
