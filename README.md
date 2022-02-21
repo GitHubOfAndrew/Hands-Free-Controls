@@ -41,6 +41,7 @@ The following portions of this project have different dependencies:
 ## Mouse-Control
 
 - pynput ("pip install pynput", Link to the creator's github here: https://github.com/moses-palmer/pynput)
+- tkinter (no need to install on Windows)
 
 # Some Limitations
 
