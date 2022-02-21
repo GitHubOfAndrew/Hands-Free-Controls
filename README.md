@@ -13,7 +13,7 @@ Both of these are tactile (touch-based) inputs. Our goal is to show that we can 
 
 ![Volume Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/Animation_volume_test4.gif)
 
-To use the volume controls, run the "volume_control_better.py" script. Place the thumb and index (pointer) finger together **to toggle volume control**. **To activate changes to the device volume**, lower the middle finger of your hand. To set the volume, raise your middle finger again.
+To use the volume controls, run the "volume_control_better.py" script. Place the thumb and index (pointer) finger together **to toggle volume control**. **To activate changes to the device volume**, lower the middle finger of your hand. **To set the volume**, raise your middle finger again.
 
 ## Brightness Controls
 <img src="https://user-images.githubusercontent.com/85316690/154621660-5d5d4d53-a4e4-4dc4-a600-c47f22c6d70d.png" width=50% height=50%>
