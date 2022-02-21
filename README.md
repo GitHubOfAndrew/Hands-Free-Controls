@@ -16,6 +16,10 @@ Both of these are tactile (touch-based) inputs. Our goal is to show that we can 
 ## Brightness Controls
 <img src="https://user-images.githubusercontent.com/85316690/154621660-5d5d4d53-a4e4-4dc4-a600-c47f22c6d70d.png" width=50% height=50%>
 
+## Mouse Controls
+
+![Mouse Control Demo](https://github.com/GitHubOfAndrew/Hands-Free-Controls/blob/main/Animation_mouse_click_test.gif)
+
 # Dependencies/How to Install
 
 The following portions of this project have different dependencies:
