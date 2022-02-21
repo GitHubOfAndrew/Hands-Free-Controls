@@ -38,6 +38,10 @@ The following portions of this project have different dependencies:
 
 - screen_brightness_control ("pip install screen_brightness_control", Link to the creator's github here: https://github.com/Crozzers/screen_brightness_control)
 
+## Mouse-Control
+
+- pynput ("pip install pynput", Link to the creator's github here: https://github.com/moses-palmer/pynput)
+
 # Some Limitations
 
 The limitations of this are the usual ones that plague computer vision tasks.
