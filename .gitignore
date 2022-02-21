@@ -134,3 +134,7 @@ dmypy.json
 
 # pycache files
 __pycache__/
+
+# .gif files
+
+*.gif
